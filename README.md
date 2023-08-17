@@ -11,5 +11,7 @@
 - Fun fact: I like exploring product designs and Algorithms 
 - i love: good eats and fun travels ❤️
 
-## Some of my skills: 
+currently learning: node.js and tensorflow  
+## Skills: 
+react, htmls, css3, vue.js, mysql, my-batisplus, springboot, json, firebase, java, C, C++, git, php 
  
